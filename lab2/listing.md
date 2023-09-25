@@ -356,23 +356,6 @@ Last login: Mon Sep 18 10:24:05 2023 from 85.143.224.38
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 dariazh@DESKTOP-C26U56G:~$ whoami
 dariazh
 dariazh@DESKTOP-C26U56G:~$ pwd
