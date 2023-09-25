@@ -1,3 +1,5 @@
+```
+
 dariazh@DESKTOP-C26U56G:~/labworking$ whoami
 dariazh
 dariazh@DESKTOP-C26U56G:~/labworking$ ls
@@ -1160,3 +1162,5 @@ To https://github.com/Daria2605/labworking.git
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 dariazh@DESKTOP-C26U56G:~/labworking$ ls
 Lab_1  README.md  lab1  lab2  lab_1  report.md
+
+```
