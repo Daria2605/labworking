@@ -1163,4 +1163,10 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 dariazh@DESKTOP-C26U56G:~/labworking$ ls
 Lab_1  README.md  lab1  lab2  lab_1  report.md
 
+dariazh@DESKTOP-C26U56G:~/new/none/labworking$ man ps
+dariazh@DESKTOP-C26U56G:~/new/none/labworking$ ps
+  PID TTY          TIME CMD
+   51 tty1     00:00:00 bash
+  244 tty1     00:00:00 ps
+
 ```
