@@ -1152,4 +1152,15 @@ dariazh@DESKTOP-C26U56G:~/new/none/labworking$ ps
    51 tty1     00:00:00 bash
   244 tty1     00:00:00 ps
 
+dariazh@DESKTOP-C26U56G:~$ cat > test.txt
+1234578
+dariazh@DESKTOP-C26U56G:~$ mkdir tr
+dariazh@DESKTOP-C26U56G:~$ ls
+README.md  git-project  id_rsa.pub  labworking  listing_arch.tar.gz  pap     test      tmp
+exmpl.txt  id_rsa       lab         listing.md  new                  python  test.txt  tr
+dariazh@DESKTOP-C26U56G:~$ mv test.txt tr/
+dariazh@DESKTOP-C26U56G:~$ cd tr
+dariazh@DESKTOP-C26U56G:~/tr$ ls
+test.txt
+
 ```
