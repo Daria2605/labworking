@@ -25,7 +25,8 @@
   ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/fa4fae56-a963-4f93-ba3d-906f16a9bd40)
   
   Фукнция translate
-  ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/5cdeed48-ee61-4b5d-9201-e888a0a79b15)
+  ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/8d1fb910-7672-43a4-bdea-cf9dc9c1a2dd)
+
   
   Фукнция shift
    ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/19496d3d-5496-4518-9f2b-0cd8a3e623ad)
