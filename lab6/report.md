@@ -16,19 +16,19 @@
   ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/ebf64a48-44cf-4560-8d92-c5d49b0d4def)
   
   Фукнция ins_zeros
-  ![Image alt](![image](https://github.com/Daria2605/labworking/assets/144656784/804d1ece-3631-4029-b476-7e93c136e8c6))
+  ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/804d1ece-3631-4029-b476-7e93c136e8c6)
   
   Фукнция 0-1
-  ![Image alt](![image](https://github.com/Daria2605/labworking/assets/144656784/0a88d55d-be0b-451f-aaed-2623150766a6))
+  ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/0a88d55d-be0b-451f-aaed-2623150766a6)
   
   Фукнция 1-1
-  ![Image alt](![image](https://github.com/Daria2605/labworking/assets/144656784/fa4fae56-a963-4f93-ba3d-906f16a9bd40))\
+  ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/fa4fae56-a963-4f93-ba3d-906f16a9bd40)
   
   Фукнция translate
-  ![Image alt](![image](https://github.com/Daria2605/labworking/assets/144656784/5cdeed48-ee61-4b5d-9201-e888a0a79b15))
+  ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/5cdeed48-ee61-4b5d-9201-e888a0a79b15)
   
   Фукнция shift
-   ![Image alt](![image](https://github.com/Daria2605/labworking/assets/144656784/19496d3d-5496-4518-9f2b-0cd8a3e623ad))
+   ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/19496d3d-5496-4518-9f2b-0cd8a3e623ad)
 
 
 
