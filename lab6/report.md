@@ -13,7 +13,7 @@
    
 4. **Сценарий выполнения работы**:
 
-  ![Image alt](![image](https://github.com/Daria2605/labworking/assets/144656784/ebf64a48-44cf-4560-8d92-c5d49b0d4def))
+  ![Image alt](https://github.com/Daria2605/labworking/assets/144656784/ebf64a48-44cf-4560-8d92-c5d49b0d4def)
   
   Фукнция ins_zeros
   ![Image alt](![image](https://github.com/Daria2605/labworking/assets/144656784/804d1ece-3631-4029-b476-7e93c136e8c6))
