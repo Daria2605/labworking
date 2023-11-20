@@ -25,7 +25,7 @@ dariazh@DESKTOP-C26U56G:~/MAI/labworking/lab9$ ./a.out
 ```
 ### Код программы
 ```
-
+[Программа] https://github.com/Daria2605/labworking/blob/main/lab9/Laba9.c
 ```
 
 5. **Выводы**:
