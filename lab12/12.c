@@ -1,7 +1,5 @@
-#include <stdio.h>
-
 int main() {
-    int number, mn = 1, count = 1, output = 0;
+    int number, mn = 1, count = 0, output = 0;
     printf("Введите число: ");
     scanf("%d", &number);
     while (number != 0)
