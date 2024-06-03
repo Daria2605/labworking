@@ -1,0 +1,64 @@
+Lorem ipsum dolor sit amet consectetuer adipiscing elit Aenean commodo ligula eget
+dolor Aenean massa Cum sociis natoque penatibus et magnis dis
+nascetur ridiculus mus Donec quam felis
+parturient montes
+ultricies
+quis sem Nulla consequat
+nec pellentesque eu pretium
+massa
+nec vulputate eget
+quis enim
+Donec pede justo fringilla vel aliquet
+arcu In enim justo rhoncus
+ut
+justo Nullam
+imperdiet a venenatis vitae
+dictum felis eu pede mollis
+pretium Integer tincidunt Cras dapibus
+Vivamus elementum semper nisi Aenean vulputate eleifend
+tellus Aenean leo
+ligula porttitor eu
+consequat vitae eleifend
+ac
+in viverra quis feugiat a tellus Phasellus
+enim Aliquam lorem ante dapibus
+viverra
+nulla ut metus varius
+laoreet Quisque rutrum Aenean imperdiet Etiam ultricies
+Curabitur ullamcorper ultricies nisi
+Nam eget
+dui
+nisi
+vel augue
+Etiam
+tellus eget condimentum
+rhoncus
+rhoncus Maecenas tempus
+libero
+sit
+neque sed ipsum Nam quam
+sem
+Cudill semper
+nunc blandit
+Maecenas nec odio et ante
+vel luctus
+amet adipiscing sem
+pulvinar hendrerit id lorem
+tincidunt tempus Donec vitae
+venenatis faucibus Nullam
+sapien ut libero
+quis
+ante
+Etiam
+tincidunt Duis leo Sed fringila mauris
+orci eget eros faucibus
+sit amet nibh Donec sodales sagittis
+magna Sed consequat leo eget bibendum sodales augue velit cursus
+
+Search in text:
+Enter key: aaaaaa
+Your value: Lorem
+Enter key: aaaabc
+Your value:
+quam
+Enter key:
